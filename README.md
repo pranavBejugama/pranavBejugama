@@ -1,82 +1,18 @@
-### PranavBejugama / README.md
+# 💫 About Me:
+### PranavBejugama / README.md<br><br># 👋 Hi, I'm Pranav!<br><br>- 🎓 Studying Software Engineering (Honours Co-op) at Ontario Tech University — expected Jun. 2029<br>- 🧠 AI Workflow Developer @ Ontario Tech University — Faculty of Business & IT<br>- 🛰️ Backend Developer & ML Engineer @ [Cosmik.ai](https://github.com) (Open Source)<br>- 💼 Previously: Software Engineering Intern @ Fanverse<br>- 🚀 Building AI/ML pipelines, backend systems, and full-stack products<br>- 💬 Currently exploring rover navigation with OpenCV & depth mapping<br><br>### 🧑‍🚀 What I'm working on<br><br>- 🔭 **Cosmik.ai** — Trained a CNN on real NASA Kepler/TESS photometric light-curve data to classify exoplanet transits, with a FastAPI + MongoDB backend selected for integration into a demo satellite build with industry partners.<br>- 🏫 **Ontario Tech (AI Workflow Developer)** — Building AI-assisted academic planning workflows in Next.js, TypeScript & Supabase, replacing a manual Excel process for the Assistant Dean's office with automated conflict detection and workload-based suggestions.<br>- 🪐 **OTOPS (Ontario Tech Operations on Planetary Surfaces)** — Developing stereo-camera depth map algorithms for autonomous rover navigation, contributing to the Canadian International Rover Challenge (CIRC).<br><br>### 🏆 Featured Projects<br><br>| Project | Description | Stack |<br>|---|---|---|<br>| 🎙️ **Voxidria** | Parkinson's risk detection — 3-stage voice analysis pipeline, 97.4% accuracy on UCI dataset. Top 15/55 at DeerHacks (UTM) | `Python` `XGBoost` `TensorFlow` `Parselmouth` `Librosa` |<br>| ✈️ **Cove** | AI student travel planner — RAG workflow chaining Gemini 2.5 to ElevenLabs. Won "Best Use of ElevenLabs" at NewHacks (UofT) | `Next.js` `PostgreSQL` `Gemini 2.5` `ElevenLabs` `DrizzleORM` |<br><br>Feel free to connect with me via [pranav.bejugama@gmail.com](mailto:pranav.bejugama@gmail.com), [LinkedIn](#), [GitHub](#), or check out my hacks on [Devpost](#).<br><br>---<br><br>### 💻 Tech Stack<br><br>**AI / ML**<br><br>![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)<br>![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)<br>![XGBoost](https://img.shields.io/badge/-XGBoost-AA0000?style=for-the-badge)<br>![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br>![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)<br>![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)<br><br>**Languages**<br><br>![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br>![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)<br>![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)<br><br>**Backend & Databases**<br><br>![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)<br>![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)<br>![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)<br>![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)<br>![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)<br><br>**Frontend**<br><br>![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)<br>![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)<br><br>**Deployment & Tools**<br><br>![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)<br>![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)<br>![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)<br><br>---<br><br>### 📊 GitHub Stats<br><br><p align="left"><br>  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/><br></p><br><br><p align="left"><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/><br></p>
 
-# 👋 Hi, I'm Pranav!
 
-- 🎓 Studying Software Engineering (Honours Co-op) at Ontario Tech University — expected Jun. 2029
-- 🧠 AI Workflow Developer @ Ontario Tech University — Faculty of Business & IT
-- 🛰️ Backend Developer & ML Engineer @ [Cosmik.ai](https://github.com) (Open Source)
-- 💼 Previously: Software Engineering Intern @ Fanverse
-- 🚀 Building AI/ML pipelines, backend systems, and full-stack products
-- 💬 Currently exploring rover navigation with OpenCV & depth mapping
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav-bejugama) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranav.bejugama@gmail.com) 
 
-### 🧑‍🚀 What I'm working on
-
-- 🔭 **Cosmik.ai** — Trained a CNN on real NASA Kepler/TESS photometric light-curve data to classify exoplanet transits, with a FastAPI + MongoDB backend selected for integration into a demo satellite build with industry partners.
-- 🏫 **Ontario Tech (AI Workflow Developer)** — Building AI-assisted academic planning workflows in Next.js, TypeScript & Supabase, replacing a manual Excel process for the Assistant Dean's office with automated conflict detection and workload-based suggestions.
-- 🪐 **OTOPS (Ontario Tech Operations on Planetary Surfaces)** — Developing stereo-camera depth map algorithms for autonomous rover navigation, contributing to the Canadian International Rover Challenge (CIRC).
-
-### 🏆 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🎙️ **Voxidria** | Parkinson's risk detection — 3-stage voice analysis pipeline, 97.4% accuracy on UCI dataset. Top 15/55 at DeerHacks (UTM) | `Python` `XGBoost` `TensorFlow` `Parselmouth` `Librosa` |
-| ✈️ **Cove** | AI student travel planner — RAG workflow chaining Gemini 2.5 to ElevenLabs. Won "Best Use of ElevenLabs" at NewHacks (UofT) | `Next.js` `PostgreSQL` `Gemini 2.5` `ElevenLabs` `DrizzleORM` |
-
-Feel free to connect with me via [pranav.bejugama@gmail.com](mailto:pranav.bejugama@gmail.com), [LinkedIn](#), [GitHub](#), or check out my hacks on [Devpost](#).
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pranavBejugama&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pranavBejugama&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranavBejugama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=pranavBejugama&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### 💻 Tech Stack
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-AA0000?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Backend & Databases**
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-**Deployment & Tools**
-
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
