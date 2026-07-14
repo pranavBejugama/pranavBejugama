@@ -8,9 +8,9 @@
 
 What are my hobbies?
 
-- 🚀 Outside of CS, I enjoy hacking on side projects and competing at hackathons
+- 🚀 Outside of CS, I love plpaying sports like basketball, badminton and football
 - 🪐 Part of Ontario Tech Operations on Planetary Surfaces (OTOPS), building UI using WebSockets for ground control and rover navigation
-- 📱 In my free time, I'm learning how to build mobile apps
+- 📱 In my free time, I'm learning how to build mobile apps and scale them
 
 Feel free to connect with me via [pranav.bejugama@gmail.com](mailto:pranav.bejugama@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/pranav-bejugama/).
 
