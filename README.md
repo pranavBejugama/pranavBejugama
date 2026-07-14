@@ -8,7 +8,7 @@
 
 What are my hobbies?
 
-- 🚀 Outside of CS, I love plpaying sports like basketball, badminton and football
+- 🚀 Outside of SWE, I love plpaying sports like basketball, badminton and football
 - 🪐 Part of Ontario Tech Operations on Planetary Surfaces (OTOPS), building UI using WebSockets for ground control and rover navigation
 - 📱 In my free time, I'm learning how to build mobile apps and scale them
 
